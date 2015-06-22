@@ -1,0 +1,70 @@
+html
+	{
+	width: 400px;
+	height: 400px;
+	margin: 1px;
+	}
+
+body
+	{
+	width: 400px;
+	height: 400px;
+	margin: 1px;
+	background-color: #2b5b84;
+	font-family: Consolas,'Lucida Console','Liberation Mono','DejaVu Sans Mono','Bitstream Vera Sans Mono','Courier New',monospace,sans-serif;
+	}
+
+textarea 
+	{
+    resize: none;
+	}
+	
+#title
+	{
+	color: #FAFAFA;
+	font-size: 20px;
+	position: absolute;
+	top: 0px;
+	left: 60px;
+	}
+
+#tagline
+	{
+	color: #FAFAFA;
+	font-size: 10px;
+	position: absolute;
+	top: 32px;
+	left: 60px;
+	}
+	
+#yourcode
+	{
+	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+	margin: 5px 5px 1px 10px;
+	height: 150px;
+	width: 375px;
+	}
+
+#run
+	{
+	position: absolute;
+	color: #2b5b84;
+	top: 218px;
+	left: 348px;
+	}
+	
+#output
+	{
+	font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+	margin: 20px 5px 1px 10px;
+	height: 125px;
+	width: 375px;
+	}
+	
+#info
+	{
+	position: absolute;
+	color: #FAFAFA;
+	top: 370px;
+	left: 140px;
+	}
